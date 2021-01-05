@@ -1,0 +1,17 @@
+{
+    "name": "react-native-nutritions",
+    "version": "1.0.0",
+    "description": "A React Native app dev environment set up with Docker",
+    "scripts": {
+        "react-native-init": "react-native init"
+    },
+    "dependencies": {
+        "react-native-cli": "^2.0.1"
+    },
+    "author": "Seung Ki Lee",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seungkilee-cs/temporary-project.git"
+    }
+}
